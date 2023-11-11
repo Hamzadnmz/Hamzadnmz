@@ -5,15 +5,26 @@ I am a person with strong communication skills, who likes teamwork and is compet
 I'm passionate and experienced about software development. This README file was created to introduce my projects and skills.
 
 
+
+
 About me:
 
 Name: Hamza DÖNMEZOĞLU
 
+
+
 Email: kawaiihamza@gmail.com
+
+
 
 LinkedIn:https://www.linkedin.com/in/hamza-d%C3%B6nmezo%C4%9Flu-8626b927a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+
+
 GitHub:https://github.com/Hamzadnmz
+
+
+
 
 My skills Below is some information about the technologies and skills I have worked on and developed:
 
